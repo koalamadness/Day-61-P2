@@ -1,0 +1,12 @@
+Windows
+32
+Lenovo
+23420
+iOS
+64
+HP
+42000
+Linux
+64
+HP
+15000
